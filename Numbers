@@ -1,0 +1,11 @@
+print(10 + 3)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
+print(10 // 3)  # 10/3 aber mit integer als Ergebnis
+print(10 % 3)
+print(10 ** 3) # exponent
+
+x = 10
+x = x + 3 
+x += 3 # obrige gleichung gekürzt als augmented assigned operator
